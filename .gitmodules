@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:gr8guyrabi/memories-blog-frontend.git
+[submodule "server"]
+	path = server
+	url = git@github.com:gr8guyrabi/memories-blog-backend.git
